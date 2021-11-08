@@ -1,0 +1,72 @@
+*{
+    background-color: #191919;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading h1{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: #F1E8B8;
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+.heading p{
+    color: #f9f9f9;
+    text-align: center;
+}
+
+.heading i{
+    color: #929292;
+    text-align: center;
+}
+
+.heading a{
+    color: #929292;
+    text-align: center;
+}
+
+.generator-area{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.generator-area input{
+    color: #191919;
+    background-color: #f9f9f9;
+    font-family: 'Dela Gothic One', sans-serif;
+    width: 400px;
+    border: none;
+    letter-spacing: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.generator-area button{
+    background-color: #D05353;
+    color: #191919;
+    width: 100px;
+    margin-top: 20px;
+    border-radius: 50px;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.note{
+    text-align: center;
+    margin-top: 100px;
+    color: #f9f9f9;
+    text-align: center;
+}
